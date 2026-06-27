@@ -1,0 +1,4 @@
+numpy>=1.26.0
+matplotlib>=3.8.0
+streamlit>=1.45.0
+playwright>=1.40.0,<1.57.0

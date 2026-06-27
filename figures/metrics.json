@@ -1,0 +1,48 @@
+{
+  "true_alpha": 0.25,
+  "seeds": 3,
+  "ude": {
+    "train_rmse": {
+      "mean": 1.4714,
+      "std": 0.0008
+    },
+    "alpha": {
+      "mean": 0.2555,
+      "std": 0.0001
+    },
+    "curve_relL2": {
+      "mean": 0.0033,
+      "std": 0.0004
+    },
+    "Promotion": {
+      "mean": 0.2225,
+      "std": 0.0113
+    },
+    "Rapid repricing": {
+      "mean": 0.1913,
+      "std": 0.0084
+    },
+    "Gradual ramp": {
+      "mean": 0.1659,
+      "std": 0.0028
+    }
+  },
+  "blackbox": {
+    "train_rmse": {
+      "mean": 1.4606,
+      "std": 0.0057
+    },
+    "Promotion": {
+      "mean": 1.4298,
+      "std": 0.2508
+    },
+    "Rapid repricing": {
+      "mean": 1.8955,
+      "std": 0.3302
+    },
+    "Gradual ramp": {
+      "mean": 0.3873,
+      "std": 0.0607
+    }
+  }
+}
