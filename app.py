@@ -7,8 +7,7 @@ Run: streamlit run app.py   (after: python experiments.py, to train models)
 import numpy as np
 import streamlit as st
 
-st.set_page_config(page_title="Neural Demand Dynamics", page_icon="chart_with_upwards_trend",
-                   layout="wide")
+st.set_page_config(page_title="Neural Demand Dynamics", layout="wide")
 
 from pathlib import Path
 
